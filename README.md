@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Asvinpradeep
-- 👀 I’m interested in HACKING.
+- 👀 I’m interested in AI
 - 🌱 I’m currently learning BCA.
 - 💞️ I’m looking to collaborate on nothing
 
