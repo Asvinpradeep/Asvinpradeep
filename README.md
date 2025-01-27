@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asvinpradeep
 - 👀 I’m interested in AI
-- 🌱 I’m currently learning BCA.
+- 🌱 I’m currently learning MBA.
 - 💞️ I’m looking to collaborate on nothing
 
 <!---
